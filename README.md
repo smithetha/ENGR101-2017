@@ -1,3 +1,3 @@
 # ENGR101-2017
-C++ code for controlling Raspberry Pi 2s in ENGR101 during 2017.
-Purpose of this repository is to learn the ways of the Github.
+
+This repository is made to help me understand how to use github for the AVC project. lmao joe was here
